@@ -1,16 +1,32 @@
-html,
-body {
-  padding: 0;
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
-    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.hero-main {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.527), rgba(20, 20, 20, 0.5)),
+    url(../public/welcome.jpg);
+  background-position-y: 35%;
+  min-height: 450px;
 }
 
-a {
-  color: inherit;
-  text-decoration: none;
+.form-container {
+  border-radius: 5%;
+  width: 15%;
+  padding-left: 40px;
+  margin-left: 150px;
+  position: relative;
+  top: 50px;
 }
 
-* {
-  box-sizing: border-box;
+.form-container p {
+  font-size: 15px !important;
+}
+
+.sign-in-text {
+  font-size: 30px !important;
+}
+
+.hero-text {
+  position: relative;
+  top: 200px;
 }
