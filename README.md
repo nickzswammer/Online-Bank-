@@ -1,4 +1,6 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+This is a [Next.js](https://nextjs.org/) project "Bank" Clone that shows an active balance and features login/sign-in features with transferring and requesting money.
+
+Demo: [Here](https://gcb-of-america.herokuapp.com)
 
 ## Getting Started
 
