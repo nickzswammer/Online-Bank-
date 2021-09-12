@@ -2,6 +2,10 @@
   "name": "bank_custom",
   "version": "0.1.0",
   "private": true,
+  "engines": {
+    "node": "15.12.0",
+    "npm": "7.18.1"
+  },
   "scripts": {
     "dev": "next dev",
     "build": "next build",
