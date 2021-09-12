@@ -1,4 +1,4 @@
-This is a [Next.js](https://nextjs.org/) project "Bank" Clone that shows an active balance and features login/sign-in features with transferring and requesting money.
+This is a ~~poorly written with little effort~~ [Next.js](https://nextjs.org/) project "Bank" Clone that shows an active balance and features login/sign-in features with transferring and requesting money.
 
 Demo: [Here](https://gcb-of-america.herokuapp.com)
 
